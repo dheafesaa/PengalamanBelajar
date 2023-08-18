@@ -18,3 +18,9 @@ Belajar Dasar Git dengan GitHub (progres 40%)
   * Belajar mengenai apa itu git, github dan toolsnya.
   * Mempraktikan pembelajaran dengan menggunakan github.
   * Belajar tentang git workflow, dasar git, dan studi kasus.
+
+**20 Agustus 2023**  
+Belajar Dasar Git dengan Github (100% done) 
+ * Studi kasus belajar dengan merilis dokumentasi pengalaman belajar.
+ * Berkolaborasi dengan tim.
+ * Latihan membuat portofolio menggunakan github.
