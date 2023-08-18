@@ -14,6 +14,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101) (100% done)
   * Menyelesaikan ujian akhir dan mendapatkan nilai sempurna.
     
 18 Agustus 2023 
-Belajar Dasar Git dengan GitHub (progres 37%)
+Belajar Dasar Git dengan GitHub (progres 40%)
   * Belajar mengenai apa itu git, github dan toolsnya.
-  * Mempraktikan pembelajaran dengan menggunakan github. 
+  * Mempraktikan pembelajaran dengan menggunakan github.
+  * Belajar tentang git workflow, dasar git, dan studi kasus.
